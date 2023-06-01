@@ -1,5 +1,5 @@
 # Stopwatch
-A simple Javascript Stopwatch 
+A simple javascript stopwatch with clean ui and animations
 
 
 
